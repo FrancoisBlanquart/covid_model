@@ -7,20 +7,20 @@ Contains the data. All data sources are detailed in the manuscript.
 
 ### Epidemiological data:
 
-*ECDC_data.csv* European data
-*jh.csv* cleaned John Hopkins data
-*italy.csv* Italian data
-*chiffres-cles_France_opencovid19-fr.csv* French data
-*covidtracking_USA_daily.csv* USA data
+- *ECDC_data.csv* European data
+- *jh.csv* cleaned John Hopkins data
+- *italy.csv* Italian data
+- *chiffres-cles_France_opencovid19-fr.csv* French data
+- *covidtracking_USA_daily.csv* USA data
 
 ### Other data:
 
-*Lockdown_dates - Sheet1.csv* lockdown dates
-*Verity_IFR.csv* age-specific infection fatality ratio
-*age_structure_all_clean.csv* age structure by region
-*mobilities.csv* and *mobilities_data.csv* Google mobility data
-*owid-covid-data.csv* test data
-*states_abbreviation.csv* USA states abbreviations
+- *Lockdown_dates - Sheet1.csv* lockdown dates
+- *Verity_IFR.csv* age-specific infection fatality ratio
+- *age_structure_all_clean.csv* age structure by region
+- *mobilities.csv* and *mobilities_data.csv* Google mobility data
+- *owid-covid-data.csv* test data
+- *states_abbreviation.csv* USA states abbreviations
 
 
 ## *attempt_renewal_deaths_v4.R*
