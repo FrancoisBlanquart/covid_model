@@ -1,4 +1,4 @@
-# Code and data for "Estimating the global reduction in transmission and rise in detection capacity of the novel coronavirus SARS-CoV-2 in early 2020"
+# Description of code and data
 
 This is the code and data used to generate the results in the paper **Estimating the global reduction in transmission and rise in detection capacity of the novel coronavirus SARS-CoV-2 in early 2020** by Antoine Belloir and François Blanquart, accessible at https://www.medrxiv.org/content/10.1101/2020.09.10.20192120v2
 
